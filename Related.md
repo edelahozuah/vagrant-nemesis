@@ -12,6 +12,7 @@ https://github.com/p00gz/vagrant-pentester
 Damn Vulnerable Web Application (DVWA) Vagrant Box for testing https://github.com/nightmare-rg/dvwa-vagrant
 
 <b> IDS </b>
+
 Network Forensics: https://github.com/hillar/vagrant_moloch_bro_suricata
 
 <b> Firewall and router boxes </b>
