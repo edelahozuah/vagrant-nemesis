@@ -17,3 +17,5 @@ Network Forensics: https://github.com/hillar/vagrant_moloch_bro_suricata
 
 <b> Firewall and router boxes </b>
 
+https://github.com/higebu/vagrant-ansible-examples-with-vyos
+
