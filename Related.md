@@ -3,7 +3,7 @@
 
 Pentest environment (kali linux) deployer using vagrant and chef. http://sliim.github.io/pentest-env/
 
-https://github.com/jhwohlgemuth/pentest-lab
+Vagrant environment template for practicing penetration testing (DVWA, Kali) https://github.com/jhwohlgemuth/pentest-lab
 
 https://github.com/p00gz/vagrant-pentester
 
