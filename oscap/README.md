@@ -44,10 +44,16 @@ oscap xccdf generate report scan-xccdf-rht_ccp-results-after.xml > /vagrant/scan
 ##References:
 
 [National Checklist Program Repository] (https://web.nvd.nist.gov/view/ncp/repository)
+
 [CIS Checklist for CentOS 7] (https://benchmarks.cisecurity.org/downloads/show-single/index.cfm?file=centos7.110)
+
 [Hardening CentOS 7] (https://highon.coffee/blog/security-harden-centos-7/)
+
 [Red Hat Enterprise Linux 7 Security Guide] (https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/pdf/Security_Guide/Red_Hat_Enterprise_Linux-7-Security_Guide-en-US.pdf)
-[GovReady Initiative for promoting compliance using SCAP] : (https://github.com/GovReady/testmachines)
+
+[GovReady Initiative for promoting compliance using SCAP] (https://github.com/GovReady/testmachines)
+
 [Automated auditing the system using SCAP] (https://securityblog.redhat.com/2013/11/13/automated-auditing-the-system-using-scap-2/)
+
 [OVAL System Characteristics Scan using OpenVAS] (http://www.greenbone.net/learningcenter/oval_sc.html)
 
